@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="974974b8-2bd6-4bec-b62f-26118e6484f3" name="Changes" comment="2nd commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_selenium_basics/test_Selenium_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_selenium_commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_selenium_commands/test_selenium_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_selenium_commands/test_selenium_05.py" afterDir="false" />
+    <list default="true" id="974974b8-2bd6-4bec-b62f-26118e6484f3" name="Changes" comment="selenium commands">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_selenium_basics/test_Selenium_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_selenium_basics/test_Selenium_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768014568384</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="selenium commands">
+      <option name="closed" value="true" />
+      <created>1768103065054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768103065054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -131,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="2nd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
+    <MESSAGE value="selenium commands" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium commands" />
   </component>
 </project>
