@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="974974b8-2bd6-4bec-b62f-26118e6484f3" name="Changes" comment="first commit" />
+    <list default="true" id="974974b8-2bd6-4bec-b62f-26118e6484f3" name="Changes" comment="2nd commit">
+      <change afterPath="$PROJECT_DIR$/src/ex_01_selenium_basics/test_Selenium_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_selenium_commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_selenium_commands/test_selenium_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_selenium_commands/test_selenium_05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_selenium_basics/test_Selenium_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_selenium_basics/test_Selenium_01.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,17 +25,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VishalDevkate/PyATB6xLearningSelenium",
-    "accountId": "766d04e8-e384-4950-8a5a-e8fb3d3673ac"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VishalDevkate&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VishalDevkate/PyATB6xLearningSelenium&quot;,
+    &quot;accountId&quot;: &quot;766d04e8-e384-4950-8a5a-e8fb3d3673ac&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3830QAaXbZSuoxol5ak7EZtlPHJ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,12 +59,25 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in test_Selenium_01.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_02.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_05.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/vdevk/PycharmProjects/PyATB6xLearningSelenium/src/ex_02_selenium_commands",
+    "settings.editor.selected.configurable": "terminal",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vdevk\PycharmProjects\PyATB6xLearningSelenium\src\ex_02_selenium_commands" />
+      <recent name="C:\Users\vdevk\PycharmProjects\PyATB6xLearningSelenium\src\ex_01_selenium_basics" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,8 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1768014504413</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2nd commit">
+      <option name="closed" value="true" />
+      <created>1768014568384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768014568384</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <envs>
+      <env key="Path" value="C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\cursor\resources\app\bin;C:\Users\vdevk\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\vdevk\AppData\Local\Programs\Python\Python314\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\vdevk\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\vdevk\AppData\Local\Programs\Python\Python310\;C:\Users\vdevk\AppData\Local\Microsoft\WindowsApps;C:\Users\vdevk\AppData\Local\GitHubDesktop\bin;C:\Users\vdevk\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2.1\bin;C:\Program Files\JetBrains\PyCharm 2025.2.3\bin;C:\LocalData\Softwares\allure-2.36.0\bin" />
+    </envs>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -86,6 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
 </project>
