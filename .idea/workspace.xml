@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="974974b8-2bd6-4bec-b62f-26118e6484f3" name="Changes" comment="workspace.xml">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="974974b8-2bd6-4bec-b62f-26118e6484f3" name="Changes" comment="Added README.md">
+      <change afterPath="$PROJECT_DIR$/src/ex_01_selenium_basics/test_Selenium_03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_selenium_commands/test_selenium_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_selenium_commands/test_selenium_05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_selenium_basics/test_Selenium_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_selenium_basics/test_Selenium_02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in test_Selenium_01.py.executor": "Run",
     "Python tests.Python tests in test_Selenium_02.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium_03.py.executor": "Run",
     "Python tests.Python tests in test_selenium_05.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -64,15 +65,15 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/vdevk/PycharmProjects/PyATB6xLearningSelenium/src/ex_02_selenium_commands",
+    "last_opened_file_path": "C:/Users/vdevk/PycharmProjects/PyATB6xLearningSelenium/src/ex_01_selenium_basics",
     "settings.editor.selected.configurable": "terminal",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vdevk\PycharmProjects\PyATB6xLearningSelenium\src\ex_02_selenium_commands" />
       <recent name="C:\Users\vdevk\PycharmProjects\PyATB6xLearningSelenium\src\ex_01_selenium_basics" />
+      <recent name="C:\Users\vdevk\PycharmProjects\PyATB6xLearningSelenium\src\ex_02_selenium_commands" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -138,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768445726862</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added README.md">
+      <option name="closed" value="true" />
+      <created>1768446803597</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768446803597</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -163,6 +172,7 @@
     <MESSAGE value="selenium commands" />
     <MESSAGE value="some file names changed" />
     <MESSAGE value="workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+    <MESSAGE value="Added README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README.md" />
   </component>
 </project>
