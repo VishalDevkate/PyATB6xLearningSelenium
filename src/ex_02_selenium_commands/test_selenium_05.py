@@ -2,7 +2,7 @@ from selenium import webdriver
 import allure
 import pytest
 
-@allure.title("verify text present on page")
+@allure.title("Print page source and verify text present on page")
 def test_second_tc():
     driver = webdriver.Chrome()
 def test_tc1():
